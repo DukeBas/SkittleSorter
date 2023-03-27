@@ -1,0 +1,11 @@
+Finish pusher part
+Make modular color part assembly
+Make end part
+Make collecion chamber part
+Make sorter assembly using color part
+
+Make wheel housing assembly with color sensor 
+
+Make funnel?
+
+Combine all for final assembly
